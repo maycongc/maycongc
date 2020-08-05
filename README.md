@@ -2,7 +2,7 @@
  <h4>☕ Entre em contato</h4>
 
   [![LinkedIn Badge](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fmaycongc%2Fproffy-server)](https://www.linkedin.com/in/maycon-gorgonha)
-  [![Gmail Badge](https://img.shields.io/badge/-maycon.gorgonha@hotmail.com-f00000?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maycon.gorgonha@hotmail.com)](maycon.gorgonha@hotmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-maycon.gorgonha@hotmail.com-f00000?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maycon.gorgonha@hotmail.com)](mailto:maycon.gorgonha@hotmail.com)
 <div>
 
 <hr>
