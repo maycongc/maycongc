@@ -7,17 +7,11 @@
 
 <hr>
 
-<div align="center">
-  <h4>Sobre mim</h4>
-  <p>
-    Apenas um estudante de Ciência da Computação, Técnico de informática que é fascinado em técnologias e desenvolvimento web/mobile. 
-  </p>
+Apenas um estudante de Ciência da Computação, Técnico de informática que é fascinado em técnologias e desenvolvimento web/mobile. 
 
-  <p>
-    📚 Atualmente me aprofundando na stack Node.JS React React-Native
-  </p>
-</div>
+📚 Atualmente me aprofundando na stack Node.JS React React-Native
 
+"Não temos de nos tornar heróis do dia para a noite. Só um passo de cada vez, tratando cada coisa à medida que surge, vendo que não é tão assustadora como parecia, descobrindo que temos a força para a superar."
 
 <br />
 <hr>
