@@ -12,6 +12,6 @@
 
 Apenas um estudante de Ciência da Computação, Técnico de informática que é fascinado em técnologias e desenvolvimento web/mobile. 
 
-📚 Atualmente me aprofundando na stack Node.JS React React-Native
+📚 Atualmente me aprofundando na stack Node.JS ReactJS
 
 "Não temos de nos tornar heróis do dia para a noite. Só um passo de cada vez, tratando cada coisa à medida que surge, vendo que não é tão assustadora como parecia, descobrindo que temos a força para a superar."
